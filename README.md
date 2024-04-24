@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syed Sybtain @SyedSybtain.
-- 👀 I’m interested in ML,AI and Python Projects.
-- 🌱 I’m currently learning Computer Engineering.
+- 👀 I’m interested in ML,AI and Python.
+- 🌱 I’m Graduate of Computer Engineering.
 - 💞️ I’m looking to collaborate for new opportunities to learn.
 - 📫 Reach me at : sybtainsyed@gmail.com
 
